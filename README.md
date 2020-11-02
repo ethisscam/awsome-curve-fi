@@ -1,6 +1,10 @@
 # awsome-curve-fi
 curated list of curve.fi
 
+## whitepaper
+- [stableswap-paper](https://www.curve.fi/stableswap-paper.pdf)
+- [DAO whitepaper](https://www.curve.fi/curve_whitepapers/CurveDAO.pdf)
+
 ## smart contract
 - [3 pool](https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7)
 - [gusd pool](https://etherscan.io/address/0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956)
