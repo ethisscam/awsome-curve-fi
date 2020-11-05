@@ -16,3 +16,8 @@ curated list of curve.fi
 - [rsv pool](https://etherscan.io/address/0xC18cC39da8b11dA8c3541C598eE022258F9744da)
 - [tbtc pool](https://etherscan.io/address/0xC25099792E9349C7DD09759744ea681C7de2cb66)
 - [voting escrow crv](https://etherscan.io/address/0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2)
+
+## develop resources
+- history data of curve.fi
+
+https://www.curve.fi/raw-stats/compound-5m.json
